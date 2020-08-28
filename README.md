@@ -20,11 +20,11 @@ Either clicking on the visualiser or the add button will bring up the add stars 
 
 ### Exporting Stars
 For when it's time to start using your new world
-[!Exporting stars](worldgeneratorimages/export.png)
+![Exporting stars](worldgeneratorimages/export.png)
 
 ### Importing a system
 If you already have a JSON script ready to go, all you have to do is import it
-[!Importing a JSON system](worldgeneratorimages/import.png)
+![Importing a JSON system](worldgeneratorimages/import.png)
 
 ### Final Star System Example
-[!Final Star System](worldgeneratorimages/full.png)
+![Final Star System](worldgeneratorimages/full.png)
